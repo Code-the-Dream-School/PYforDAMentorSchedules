@@ -5,6 +5,10 @@
       "schedulingUrl": "https://calendly.com/gahuj004-ucr/30min"
     },
     {
+      "name": "Marina N",
+      "schedulingUrl": "https://calendly.com/marin-nosova/30min"
+    },
+    {
       "name": "Sara T",
       "schedulingUrl": "https://calendly.com/saratahir04/1-1-mentor-session"
     }
@@ -12,5 +16,5 @@
   "groupSessionLink": [
     "https://codethedream.slack.com/docs/T07EHJ738/F0C37LVBT4P?focus_section_id=temp:C:REL20552accd8794103a3c4a72f4"
   ],
-  "generatedAt": "2026-10-08T16:44:14.015Z"
+  "generatedAt": "2026-10-08T22:16:45.772Z"
 }
